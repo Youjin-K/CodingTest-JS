@@ -19,7 +19,7 @@
 
 ---
 
-### ch.2 Readme 작성법 ‘Markdown’
+### ch.2 Readme 작성법
 
 **_#Markdown(.md) #GitHub_**
 
